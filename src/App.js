@@ -9,7 +9,7 @@ import Register from './pages/Register';
 function App() {
   return (
     <Router>
-      <div className="App">
+      <div className="App  asd">
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/category" element={<CategoryPage />} />
